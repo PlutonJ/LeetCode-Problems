@@ -1,4 +1,5 @@
 // recursive solution with unholy casework
+// good to read: https://leetcode.com/problems/regular-expression-matching/discuss/5651/Easy-DP-Java-Solution-with-detailed-Explanation
 
 class Solution {
     public boolean isMatch(String s, String p) {
